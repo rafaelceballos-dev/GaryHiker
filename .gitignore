@@ -1,0 +1,5 @@
+
+*.vsidx
+src/GaryHikerConsoleApp/.vs/
+src/GaryHikerConsoleApp/bin/
+src/GaryHikerConsoleApp/obj/
